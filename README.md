@@ -32,6 +32,7 @@ A aplicação está implantada na nuvem e pode ser acessada através dos seguint
 
 * **URL Base da API:** `https://proposta-credito-app.onrender.com` 
 * **Documentação Interativa (Swagger UI):** `https://proposta-credito-app.onrender.com/swagger-ui.html` 
+Obs.: Lembre-se que a aplicação provavelmente estará "hibernando" ao tentar realizar a primeira requisição, ou seja, a primeira requisição deve demorar até 3 minutos para retornar.
 
 ---
 
